@@ -51,7 +51,15 @@ predict the right class accordingly. <br>
 <a href="https://github.com/kamalsambhani/GRIPFEB23/blob/main/Prediction%20using%20Decision%20Tree%20Algorithm/data%20.csv">Dataset.csv</a><br><br>
 
 
+<br><br>
+<img height="27" src="https://img.shields.io/badge/Prediction using Unsupervised ML -Level  Beginner-green.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=blue"/>
+<br>
 
+> Problem Statement:
+- From the given ‘Iris’ dataset, predict the optimum number of clusters and
+represent it visually.<br>
+- Use R or Python or perform this task<br>
+- Here is the dataset : <a href="https://github.com/kamalsambhani/GRIPFEB23/blob/main/Prediction%20using%20Unsupervised%20ML/Iris.csv">Dataset.csv</a><br><br>
 
 If you have any Queries or Suggestions, feel free to reach out to me.
 
