@@ -63,7 +63,6 @@ represent it visually.<br>
 
 If you have any Queries or Suggestions, feel free to reach out to me.
 
-<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 
 
 
